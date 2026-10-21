@@ -1,0 +1,11 @@
+{
+  "name": "wedding-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Guest chat assistant for Sofía & Rohan's wedding celebration",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "ask": "node scripts/ask.js"
+  }
+}
